@@ -1,0 +1,11 @@
+Homework Week 8 day 1
+
+1. Actions are used for sending data to the store.
+2. Actions must be plain objects
+3. and need to have a type property. this property defines the type of action that the action wants to perform.
+4. Reducer lets the state be changed by actions being sent to the store.
+5. the store holds all the states of your application
+
+Part 2:
+
+reducers 3 and 5 are pure
